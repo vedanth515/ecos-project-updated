@@ -1,0 +1,137 @@
+/* .card{
+    width: 350px;
+    height:auto;
+    display: flex;
+    gap:10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 3px 3px 5px pink;
+    border-radius: 10px;
+    padding: 2px;
+
+}
+/* .card > .img {
+    width: 100%;
+    height: 60%;
+} */
+/* 
+#parent{
+    border:2px solid black;
+    height:100%;
+    padding:20px;
+}
+
+.card{
+    width: 350px;
+    height:auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+    /* gap:30px; */
+    /* column-gap:30px; */
+/* } */ 
+
+
+
+
+/* Styling for the buttons
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+  }
+  
+  /* Smooth transition for the cards */
+  /* .card { */
+    /* border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  } */ 
+
+/* Styling for the buttons */
+button {
+    background-color: #f9f9f9; /* Light background */
+    color: #333; /* Neutral text color */
+    border: 1px solid #ccc; /* Soft border */
+    padding: 10px 20px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif; /* Updated font */
+    cursor: pointer;
+    border-radius: 10px; /* Rounded corners for buttons */
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15); /* Subtle shadow */
+  }
+  
+  button:hover {
+    background-color: #e6f7ff; /* Light blue hover */
+    color: #0056b3; /* Dark blue text on hover */
+    border-color: #0056b3; /* Blue border on hover */
+    transform: scale(1.05); /* Slight zoom effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25); /* Enhanced shadow */
+  }
+  
+  /* Styling for the cards */
+  .card {
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 15px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Updated box-shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions */
+  }
+  
+  .card:hover {
+    transform: translateY(-8px); /* Lift effect */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Stronger shadow on hover */
+  }
+  
+  /* Typography updates */
+  .card h3 {
+    font-family: 'Poppins', sans-serif; /* New font family */
+    font-size: 18px;
+    font-weight: 600;
+    color: #222; /* Darker text for better readability */
+  }
+  
+  .card p {
+    font-family: 'Roboto', sans-serif; /* Subtle font change for descriptions */
+    font-size: 14px;
+    color: #555; /* Medium gray text */
+  }
+  
+  /* Pricing design */
+  .card .price {
+    color: #009688; /* Teal for price */
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .card .rating {
+    color: #ff9800; /* Orange for ratings */
+    font-weight: bold;
+  }
+  
+  
+
+
+  
